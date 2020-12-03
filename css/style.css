@@ -53,7 +53,7 @@ body {
   font-size: 14px;
   color: var(--color-text);
   font-family: Hiragino Sans GB;
-  background: var(--color-background) url("") fixed no-repeat;
+  background: var(--color-background) url("https://yi-1257922878.cos.ap-nanjing.myqcloud.com/yi.JPG") fixed no-repeat;
 }
 body a {
   color: var(--color-text);
